@@ -8,5 +8,5 @@ For practical reasons in the scripts I only include the following attributes: **
 
 But if you want to add the rest of the attributes of the players you can do so by adding their XPath along with the others (using the same format).
 
-#TODO
+# TODO
 - Use Python Requests module to improve the efficiency of the scripts
