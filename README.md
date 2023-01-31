@@ -8,5 +8,7 @@ For practical reasons in the scripts I only include the following attributes: **
 
 But if you want to add the rest of the attributes of the players you can do so by adding their XPath along with the others (using the same format).
 
+If you use Selenium, you'll need a webdriver. In my case I used Chrome's webdriver which can be found at https://chromedriver.chromium.org/downloads
+
 # TODO
 - Use Python Requests module to improve the efficiency of the scripts
